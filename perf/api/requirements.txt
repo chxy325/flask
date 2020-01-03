@@ -15,7 +15,7 @@ packaging==16.8
 PyMySQL==0.7.9
 pyparsing==2.1.10
 pypng==0.0.18
-python-engineio==1.2.4
+python-engineio==3.8.2.post1
 python-socketio==1.7.1
 requests==2.13.0
 six==1.10.0
